@@ -1,3 +1,12 @@
+jieba-GUI
+=========
+Graphic User interface for THULAC Chinese POS tagger (https://github.com/thunlp/THULAC-Python) <br>
+All rights belong to its owner ([https://github.com/thunlp](https://github.com/thunlp)) <br>
+For personal, non-profit use only.
+
+## Windows에서 실행
+우상단 `Code` -> `Download ZIP` 다운로드 압축 해제 후, thulac_gui.exe 클릭하여 실행
+
 # THULAC：一个高效的中文词法分析工具包
 ## 目录
 * [项目介绍](#项目介绍)

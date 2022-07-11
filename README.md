@@ -5,7 +5,7 @@ All rights belong to its owner ([https://github.com/thunlp](https://github.com/t
 For personal, non-profit use only.
 
 ## Windows에서 실행
-우상단 `Code` -> `Download ZIP` 다운로드 압축 해제 후, thulac_gui.exe 클릭하여 실행
+[파일 다운로드](https://drive.google.com/file/d/1KddVeDBLbDtj6o0JN08tIut9qsKQtyjo/view?usp=sharing) 압축 해제 후, thulac_gui.exe 클릭하여 실행
 
 ## 代表分词软件的性能对比
 我们选择LTP、ICTCLAS、结巴分词等国内代表分词软件与THULAC做性能比较。我们选择Windows作为测试环境，根据第二届国际汉语分词测评发布的国际中文分词测评标准，对不同软件进行了速度和准确率测试。

@@ -1,4 +1,4 @@
-jieba-GUI
+THULAC-GUI
 =========
 Graphic User interface for THULAC Chinese POS tagger (https://github.com/thunlp/THULAC-Python) <br>
 All rights belong to its owner ([https://github.com/thunlp](https://github.com/thunlp)) <br>
